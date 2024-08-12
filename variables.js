@@ -1,5 +1,5 @@
-const subtraction = (num1, num2) => num1 - num2
+function adi (num1, num2, num3){return num1 + num2 - num3}
 
-console.log(subtraction(22, 15));
+console.log(adi(5, 5, 3));
 
-/*Exemplo de como usar arrow function*/
+/*exemplo de como usar função*/

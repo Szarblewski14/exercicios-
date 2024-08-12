@@ -11,6 +11,7 @@ const addProperty = (object, key, value) => {
   }
 };
 
-addProperty(customer, 'altura', '1.85');
+addProperty(customer, 'altura', '1.85', 'email');
 
 console.log(customer);
+

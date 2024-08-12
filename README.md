@@ -1,2 +1,2 @@
 # exercicios-
-Deixarei os exercicios da trybe armazenados neste repositório
+Deixarei os exercicios da trybe armazenados neste repositório.
